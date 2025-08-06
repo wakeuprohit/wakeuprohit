@@ -55,10 +55,10 @@
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/rohitkumargit" target="_blank">
+  <a href="https://linkedin.com/in/wakeuprohitsingh" target="_blank">
     <img align="left" alt="Rohit Kumar | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://github.com/rohitkumargit" target="_blank">
+  <a href="https://github.com/wakeuprohit" target="_blank">
     <img align="left" alt="Rohit Kumar | GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 </p>
